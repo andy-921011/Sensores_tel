@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SENSORES</string>
+
+    <string name="t1">SENSORES SOPORTADOS</string>
+    <string name="hello_world"></string>
+    <string name="action_settings">Settings</string>
+
+</resources>
